@@ -40,14 +40,14 @@ class _TelaPrincipalState extends State<TelaPrincipal> {
           ),
           backgroundColor: Colors.orangeAccent,
         ),
-        body: Container(
-          decoration: BoxDecoration(
-            image: DecorationImage(
-              image: AssetImage('assets/fundo.jpeg'),
-              fit: BoxFit.cover,
-            ),
-          ),
+        body: SingleChildScrollView(
           child: Container(
+            decoration: BoxDecoration(
+              image: DecorationImage(
+                image: AssetImage('assets/fundo.jpeg'),
+                fit: BoxFit.cover,
+              ),
+            ),
             padding: EdgeInsets.all(16),
             child: Column(
               crossAxisAlignment: CrossAxisAlignment.center,
@@ -117,3 +117,4 @@ class _TelaPrincipalState extends State<TelaPrincipal> {
     );
   }
 }
+
