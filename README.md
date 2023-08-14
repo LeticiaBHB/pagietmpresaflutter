@@ -4,11 +4,11 @@ responsive design for any screen
 
 | Image 1 | Image 2 | Image 3 |
 |----------|----------|----------|
-| <img src="screenshots/1.jpeg" width="200" height="300"> | <img src="screenshots/2.jpeg" width="200" height="300"> | <img src="screenshots/3.jpeg" width="200" height="300"> |
+| <img src="screenshots/1.jpeg" width="200" height="500"> | <img src="screenshots/2.jpeg" width="200" height="500"> | <img src="screenshots/3.jpeg" width="200" height="500"> |
 
 | Image 4 | Image 5 |
 |----------|----------|
-| <img src="screenshots/4.jpeg" width="200" height="300"> | <img src="screenshots/5.jpeg" width="200" height="300">
+| <img src="screenshots/4.jpeg" width="200" height="500"> | <img src="screenshots/5.jpeg" width="200" height="500">
 
 
 ##License
